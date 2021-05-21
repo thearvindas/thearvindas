@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Arvin, a second year Mechatronics undergrad from MIT Manipal!
-- 👀 I’m interested in everything Robotics.
-- 🌱 I’m currently learning ROS!
 
 
 <!---
