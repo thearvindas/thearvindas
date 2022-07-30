@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arvin, a third year Mechatronics undergrad from MIT Manipal!
+- 👋 Hi, I’m Arvin, a final year Mechatronics undergrad from MIT Manipal!
 
 
 <!---
